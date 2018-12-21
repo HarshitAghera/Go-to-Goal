@@ -10,8 +10,8 @@ STM Nucleo board serves as a central controller having 32 bit ARM microcontrolle
 
 ## Code pre requisites 
 
-* As Entire code had been developed in Keil environment, it is inevitable to get prior knowledge regarding it.
-* Basic concept of Object Orientated Programming is inevitable as it is used as individual coordinate frame handler.
+* As Entire code had been developed in Keil environment, it is required to get prior knowledge regarding it.
+* Basic concept of Object Orientated Programming is necessary as it is used as individual coordinate frame handler.
 
 ## How to use Code
 
